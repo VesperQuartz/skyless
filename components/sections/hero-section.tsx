@@ -38,7 +38,6 @@ export function HeroSection() {
               Get Started Today
             </Button>
 
-            {/* Trust Indicators */}
             <div className="pt-8">
               <p className="text-sm text-gray-500 mb-4">
                 Trusted by Leading Company
@@ -58,7 +57,6 @@ export function HeroSection() {
             </div>
           </motion.div>
 
-          {/* Enhanced Phone Mockup */}
           <motion.div
             initial={{ opacity: 0, x: 60 }}
             animate={{ opacity: 1, x: 0 }}
