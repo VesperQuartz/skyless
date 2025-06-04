@@ -70,7 +70,7 @@ export function Footer() {
         </div>
 
         <div className="border-t border-orange-400 mt-12 pt-8 text-center text-orange-100">
-          <p>&copy; 2024 Skyless. All rights reserved.</p>
+          <p>&copy; 2025 Skyless. All rights reserved.</p>
         </div>
       </div>
     </footer>

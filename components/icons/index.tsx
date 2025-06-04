@@ -28,7 +28,7 @@ export const SVGMcdonald = () => {
       viewBox="0 0 192.756 192.756"
       xmlns="http://www.w3.org/2000/svg"
     >
-      <g fill-rule="evenodd" clip-rule="evenodd">
+      <g fillRule="evenodd" clipRule="evenodd">
         <path fill="#ffffff" d="M0 0h192.756v192.756H0V0z" />
 
         <path
@@ -65,7 +65,7 @@ export const SVGIkea = () => {
       viewBox="0 0 192.756 192.756"
       xmlns="http://www.w3.org/2000/svg"
     >
-      <g fill-rule="evenodd" clip-rule="evenodd">
+      <g fillRule="evenodd" clipRule="evenodd">
         <path fill="#ffffff" d="M0 0h192.756v192.756H0V0z" />
 
         <path
@@ -95,7 +95,7 @@ export const SVGFord = () => {
       viewBox="0 0 192.756 192.756"
       xmlns="http://www.w3.org/2000/svg"
     >
-      <g fill-rule="evenodd" clip-rule="evenodd">
+      <g fillRule="evenodd" clipRule="evenodd">
         <path fill="#ffffff" d="M0 0h192.756v192.756H0V0z" />
 
         <path
@@ -145,7 +145,7 @@ export const SVGDeere = () => {
       viewBox="0 0 192.756 192.756"
       xmlns="http://www.w3.org/2000/svg"
     >
-      <g fill-rule="evenodd" clip-rule="evenodd">
+      <g fillRule="evenodd" clipRule="evenodd">
         <path fill="#ffffff" d="M0 0h192.756v192.756H0V0z" />
 
         <path
